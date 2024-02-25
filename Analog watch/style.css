@@ -17,7 +17,7 @@ body{
 }
 .clock{
     width: 300px;
-    height: 300px;
+    height: 301px;
     border-radius: 50%;
     background-color: rgba(225,255, 255, 0.1);
     border: 2px solid rgba(255, 255, 255, 0.1);
